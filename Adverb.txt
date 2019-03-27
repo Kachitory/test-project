@@ -1,0 +1,4 @@
+value;tense;
+away;adverb;
+left;adverb;
+down;adverb;

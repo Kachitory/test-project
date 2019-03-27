@@ -1,0 +1,4 @@
+value;tense;
+credit;noun;
+personal;noun;
+business;noun;

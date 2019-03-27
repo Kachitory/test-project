@@ -1,0 +1,5 @@
+value;tense;
+how;adverb;
+what;adverb;
+let;verb;
+what's;adverb;

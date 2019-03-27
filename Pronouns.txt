@@ -1,0 +1,8 @@
+value;tense;
+i;pronouns;
+me;pronouns;
+my;pronouns;
+you;pronouns;
+is;pronouns;
+it;pronouns;
+are;pronouns;

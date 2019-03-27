@@ -1,0 +1,4 @@
+value;tense;
+card;cards;
+mastercard;cards;
+visa;cards;

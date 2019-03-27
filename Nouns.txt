@@ -1,0 +1,14 @@
+value;tense;
+balance;noun;
+application;noun;
+papers;noun;
+bill;noun;
+pin;noun;
+cash;noun;
+account;noun;
+credit;noun;
+line;noun;
+number;noun;
+request;noun;
+activation;noun;
+amount;noun;

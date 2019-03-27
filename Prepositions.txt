@@ -1,0 +1,12 @@
+value;tense;
+to;prepositions;
+a;prepositions;
+for;prepositions;
+with;prepositions;
+and;prepositions;
+on;prepositions;
+of;prepositions;
+if;prepositions;
+the;prepositions;
+that;prepositions;
+or;prepositions;
