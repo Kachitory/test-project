@@ -1,0 +1,12 @@
+git config --global user.name "Oleg Vozniak"
+git config --global user.email "Olegvozniak22@ukr.net"
+git status
+git add //add new file
+e/
+cd testRepo
+git init
+
+cd .. +
+cd e:/
+cd testRepo
+
