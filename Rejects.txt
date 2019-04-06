@@ -1,3 +1,0 @@
-value;tense;
-not;prepositions;
-no;prepositions;

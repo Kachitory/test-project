@@ -1,8 +1,0 @@
-value;tense;
-much;adjective;
-last;adjective;
-minimum;adjective;
-relative;adjective;
-new;adjective;
-old;adjective;
-current;adjective;

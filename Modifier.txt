@@ -1,7 +1,0 @@
-value;tense;
-remaining;verb;
-changing;verb;
-wondering;verb;
-spending;verb;
-working;verb;
-available;adjective;
